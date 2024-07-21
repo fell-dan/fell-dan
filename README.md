@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fell-dan
+- 👋 Hi, I’m Dan Fell!
 - 👀 I’m interested in software development.
 - 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on Python projects.
